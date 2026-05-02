@@ -2,8 +2,7 @@
 
 REST API in Go.
 
-
 ## Run
 ```
-make build && ./bin/api
+ make build && ./bin/api
 ```
